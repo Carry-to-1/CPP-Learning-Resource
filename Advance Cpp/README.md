@@ -3,30 +3,7 @@
 <p align="center">
 <img src="other/cpp_logo.png" />
 </p>
-<p align="center">
-    <a href="https://github.com/federico-busato/Modern-CPP-Programming/releases" alt="Release">
-        <img src="https://img.shields.io/github/v/release/federico-busato/Modern-CPP-Programming?style=for-the-badge"/>
-    </a>
-</p>
 
-<p align="center">
-    <a alt="Stars">
-        <img src="https://img.shields.io/github/stars/federico-busato/Modern-CPP-Programming?style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/federico-busato/Modern-CPP-Programming/network/members" alt="Forks">
-        <img src="https://img.shields.io/github/forks/federico-busato/Modern-CPP-Programming?style=for-the-badge"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/federico-busato/Modern-CPP-Programming/commits/master" alt="Commits">
-        <img src="https://badgen.net/github/commits/federico-busato/Modern-CPP-Programming?style=for-the-badge&scale=1.2"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/federico-busato/Modern-CPP-Programming/issues" alt="Issues">
-        <img src="https://badgen.net/github/closed-issues/federico-busato/Modern-CPP-Programming?style=for-the-badge&scale=1.2"/>
-    </a>
-</p>
 
 ## C++03 / C++11 / C++14 / C++17 / C++20 / C++23 / C++26
 
@@ -42,14 +19,6 @@ This *open-access* course is directed at those who are already familiar with C a
 - *Complementary language aspects*: tools, coding conventions, project organization, and code optimization
 - *Experience-based*: many aspects, examples, and problems come from real-world cases faced during my work as a software engineer
 
-*If you enjoy the course or you find it useful*, please add a **Star**
-
- [![stars - Modern-CPP-Programming](https://img.shields.io/github/stars/federico-busato/Modern-CPP-Programming?style=social)](https://github.com/federico-busato/Modern-CPP-Programming)
-
-**Roadmap**:
-
-1. Move from Latex to [Typst](https://typst.app/).
-2. Fully-open source the material and allow direct contribution.
 
 ## Table of Contents
 
@@ -375,9 +344,6 @@ Font for coding.
 - **Other Aspects**: C++20 modules, Overload resolution, other code aspects, Pointer Implementation (PIMPL), Include guard vs. `#pragma once`, Static vs. dynamic linking, Comments and formatting, External factors.
 - **Tools to Analyze Build Time**: Clang build-time analysis, `ninjatracing`, `Templight`, `Build Bench`, Visual Studio - `CompileScore`, Visual Studio - `C++ Build Insights`.
 
-## Reporting Bugs 🐛 and Contributing
-
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
 
 ## Where the Course has been used
 
@@ -398,3 +364,10 @@ This repository is dual-licensed:
 
 - &#127760; LinkedIn: [www.linkedin.com/in/federico-busato/](https://www.linkedin.com/in/federico-busato/)
 - &#129419; Bluesky: [fbusato.bsky.social](https://bsky.app/profile/fbusato.bsky.social)
+
+===============================================================
+
+## FInal 
+
+I like to thanks him to provide such a resource and to guide us in learning C++.
+
