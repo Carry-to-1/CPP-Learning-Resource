@@ -1,10 +1,5 @@
 # Modern C++ Programming
 
-<p align="center">
-<img src="other/cpp_logo.png" />
-</p>
-
-
 ## C++03 / C++11 / C++14 / C++17 / C++20 / C++23 / C++26
 
 This *open-access* course is directed at those who are already familiar with C and object-oriented programming aiming for a proficiency level of C++ programming. The course covers the basics of C++ programming and moves on to advanced C++ semantics and concepts.
@@ -18,7 +13,6 @@ This *open-access* course is directed at those who are already familiar with C a
 - *Minimal code examples* for showing just a specific feature or issue without digressing
 - *Complementary language aspects*: tools, coding conventions, project organization, and code optimization
 - *Experience-based*: many aspects, examples, and problems come from real-world cases faced during my work as a software engineer
-
 
 ## Table of Contents
 
@@ -362,12 +356,11 @@ This repository is dual-licensed:
 
 `Federico Busato`, [federico-busato.github.io](https://federico-busato.github.io/)
 
-- &#127760; LinkedIn: [www.linkedin.com/in/federico-busato/](https://www.linkedin.com/in/federico-busato/)
-- &#129419; Bluesky: [fbusato.bsky.social](https://bsky.app/profile/fbusato.bsky.social)
 
-===============================================================
 
-## FInal 
+===========================================================
+Final Thoughts ~
+===========================================================
 
 I like to thanks him to provide such a resource and to guide us in learning C++.
 
