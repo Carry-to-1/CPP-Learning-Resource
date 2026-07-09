@@ -23,10 +23,10 @@ Difference between Procedure Oriented Programming and Object-Oriented Programmin
 -----------------------------------
 Procedure Oriented Programming
 -----------------------------------
-#Consists of writing a set of instruction for the computer to follow
-#The main focus is on functions and not on the flow of data
-#Functions can either use local or global data
-#Data moves openly from function to function
+# Consists of writing a set of instruction for the computer to follow
+# The main focus is on functions and not on the flow of data
+# Functions can either use local or global data
+# Data moves openly from function to function
 
 ---------------------------
 Object-Oriented Programming
